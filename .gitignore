@@ -2,9 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/Patterns.Samples/bin/Debug
-/src/Patterns.Samples/.vs/Patterns.Samples/v15
-/src/.vs/Patterns.Samples/v15
-/src/Patterns.Samples/obj/Debug
-/src/Patterns.Samples.ConsoleApp/obj/Debug
-/src/Patterns.Samples.ConsoleApp/bin/Debug
+/src/.vscode*
+/src/obj*
+/src/bin*
