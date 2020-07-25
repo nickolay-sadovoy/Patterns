@@ -1,0 +1,12 @@
+/Users/nicksadovoy/Desktop/Code/Patterns/src/bin/Debug/net5.0/src.deps.json
+/Users/nicksadovoy/Desktop/Code/Patterns/src/bin/Debug/net5.0/src.runtimeconfig.json
+/Users/nicksadovoy/Desktop/Code/Patterns/src/bin/Debug/net5.0/src.runtimeconfig.dev.json
+/Users/nicksadovoy/Desktop/Code/Patterns/src/bin/Debug/net5.0/src.dll
+/Users/nicksadovoy/Desktop/Code/Patterns/src/bin/Debug/net5.0/src.pdb
+/Users/nicksadovoy/Desktop/Code/Patterns/src/obj/Debug/net5.0/src.csprojAssemblyReference.cache
+/Users/nicksadovoy/Desktop/Code/Patterns/src/obj/Debug/net5.0/src.AssemblyInfoInputs.cache
+/Users/nicksadovoy/Desktop/Code/Patterns/src/obj/Debug/net5.0/src.AssemblyInfo.cs
+/Users/nicksadovoy/Desktop/Code/Patterns/src/obj/Debug/net5.0/src.csproj.CoreCompileInputs.cache
+/Users/nicksadovoy/Desktop/Code/Patterns/src/obj/Debug/net5.0/src.dll
+/Users/nicksadovoy/Desktop/Code/Patterns/src/obj/Debug/net5.0/src.pdb
+/Users/nicksadovoy/Desktop/Code/Patterns/src/obj/Debug/net5.0/src.genruntimeconfig.cache
