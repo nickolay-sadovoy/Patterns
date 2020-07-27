@@ -1,7 +1,7 @@
-using System;
-
 namespace PatternsApp.Creational.Singleton
 {
+
+    using System;
     public class Logger
     {
         private static object lockObject = new object();
